@@ -3,7 +3,7 @@ echo "welcome to the word o fcookies";
 
 
 //Cookies | Sessions
-//cookies doesnt store the data sessions use to store the datacookeis will show me the latpot shit my friend 
+//cookies doesnt store the data sessions use to store the datacookeis 
 //syntax to set a cookie my friend
 
 setcookie("category","books",time()+86400,"/");
